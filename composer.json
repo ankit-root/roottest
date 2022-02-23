@@ -1,0 +1,12 @@
+{
+    "name": "rootinfo/roottest",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ankit.dholiya",
+            "email": "ankit.dholiya@rootinfosol.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
