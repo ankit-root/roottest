@@ -1,13 +1,15 @@
 {
-    "name": "jhkank/roottest",
-    "type": "project",
-    "license": "MIT",
+    "name": "ankit-root/roottest",
+    "type": "library",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.1.3",
+      },
     "authors": [
         {
             "name": "ankit.dholiya",
             "email": "ankit.dholiya@rootinfosol.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
 }
