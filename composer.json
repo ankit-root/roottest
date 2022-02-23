@@ -1,6 +1,7 @@
 {
     "name": "jhkank/roottest",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "ankit.dholiya",
