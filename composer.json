@@ -8,6 +8,6 @@
             "email": "ankit.dholiya@rootinfosol.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
